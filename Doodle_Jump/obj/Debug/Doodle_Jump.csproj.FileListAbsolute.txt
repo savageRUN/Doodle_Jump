@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.Form1.resources
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.Properties.Resources.resources
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\bin\Debug\Doodle_Jump.exe.config
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\bin\Debug\Doodle_Jump.exe
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\bin\Debug\Doodle_Jump.pdb
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.exe
+C:\Users\user\source\repos\Doodle_Jump\Doodle_Jump\obj\Debug\Doodle_Jump.pdb
